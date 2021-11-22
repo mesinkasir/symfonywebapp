@@ -17,11 +17,11 @@ Documentation and installation :
 ---------------------------------------------------------------
 
 Recipe :
-Landing Page
-Dark mode
-Bootstrap
-Fontawesome
-Symfony
++ Landing Page
++ Dark mode
++ Bootstrap
++ Fontawesome
++ Symfony
 
 
 ----------------------------------------------------------------
