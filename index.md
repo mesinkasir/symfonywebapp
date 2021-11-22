@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+# Symfony Web App template themes
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/symfonywebapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A next generation symfony website landing page with dark mode.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Test drive demo : [https://resto.axcora.com](https://resto.axcora.com)
 
-### Markdown
+Documentation and installation :
+[https://www.hockeycomputindo.com/2021/11/source-code-symfony-gratis-free.html](https://www.hockeycomputindo.com/2021/11/source-code-symfony-gratis-free.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![symfony website free download source code](https://1.bp.blogspot.com/-tHFZP_5W6j4/YZskaT9aDbI/AAAAAAAASCQ/1UqST0xFHyACq4wAGsxYgg3hFcmdJUhXACLcBGAsYHQ/s1024/symfony%2Bsource%2Bcode%2Bweb%2Btemplate%2Bthemes%2Bfree%2Bdownload%2Bgratis.jpg)
 
-```markdown
-Syntax highlighted code block
+Test drive demo : [https://resto.axcora.com](https://resto.axcora.com)
 
-# Header 1
-## Header 2
-### Header 3
+Documentation and installation :
+[https://www.hockeycomputindo.com/2021/11/source-code-symfony-gratis-free.html](https://www.hockeycomputindo.com/2021/11/source-code-symfony-gratis-free.html)
 
-- Bulleted
-- List
+---------------------------------------------------------------
 
-1. Numbered
-2. List
+Recipe :
++ Landing Page
++ Dark mode
++ Bootstrap
++ Fontawesome
++ Symfony
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+----------------------------------------------------------------
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+A display 
 
-### Jekyll Themes
+![symfony website free download source code](https://1.bp.blogspot.com/-718XjKoVCkQ/YZshFpPwosI/AAAAAAAASA0/rfLlQb71cUErq4gnvQOASGHVOzTR-IZWgCLcBGAsYHQ/s3529/symfony%2Bsource%2Bcode%2Bdownload%2B%25281%2529.jpeg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/symfonywebapp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Home Page
 
-### Support or Contact
+![symfony website free download source code](https://1.bp.blogspot.com/-JQ-hrxd79Mc/YZshGnZtJBI/AAAAAAAASA8/BUy5gZLwupw10nx_I-TPudqt3fQxJTrFgCLcBGAsYHQ/s1445/symfony%2Bsource%2Bcode%2Bdownload%2B%25282%2529.jpeg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Services page
+
+![symfony website free download source code](https://1.bp.blogspot.com/-hpO9EiTALPg/YZshH6dX75I/AAAAAAAASBE/47QeeVKrRsE6raciYfemMsNRKz2xQepuQCLcBGAsYHQ/s2840/symfony%2Bsource%2Bcode%2Bdownload%2B%25283%2529.jpeg)
+
+Product Page
+
+![symfony website free download source code](https://1.bp.blogspot.com/-p3EjLDbGV9g/YZshI8DZrZI/AAAAAAAASBM/TqJuYX_ISloRKprplHh46AhU5KZ5NdtcACLcBGAsYHQ/s1928/symfony%2Bsource%2Bcode%2Bdownload%2B%25284%2529.jpeg)
+
+Content article page
+
+![symfony website free download source code](https://1.bp.blogspot.com/-X-E5DJkRbqE/YZshJmWeFYI/AAAAAAAASBU/4gHSy_IgBtM35GcRiNvE6UWx5V9ovTS8gCLcBGAsYHQ/s1446/symfony%2Bsource%2Bcode%2Bdownload%2B%25285%2529.jpeg)
+
+Other Pages
+
+------------------------------------------------------------------------
+
+Test drive demo : [https://resto.axcora.com](https://resto.axcora.com)
+
+Documentation and installation :
+[https://www.hockeycomputindo.com/2021/11/source-code-symfony-gratis-free.html](https://www.hockeycomputindo.com/2021/11/source-code-symfony-gratis-free.html)
+
+
+
+------------------------------------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
